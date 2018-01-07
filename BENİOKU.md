@@ -4,7 +4,9 @@ Turnuvanın bu probleminde hepimizin de bildiği,belki bizzat yapmasak da arkada
 Deneylerimizi gerçekleştirmeden önce kısaca aramızda bir plan yaptık (neler yapabiliriz,yapabileceklerimizden hangisini önce yapmalıyız vs.)Sonrasında daha fazla fikir için internette araştırma yaptık.Karşımıza çıkan sonuçlar ise youtube fenomenlerinin videolarından ibaretti.Uzun uzun araştırsak milyon tane cümle kombinasyonuyla arama yapsak bile  sonuç değişmedi.Karşımıza çıkan videoları izleyerek belli bir plana ulaştık.Deneylerimizde bir değişkeni sabit tutacak böylece tüm değişkenleri teker teker inceleme fırsatı bulacaktık.Aramızdaki kısa görüşmelerde bazı hipotezler ortaya koyduk.Bunlardan birisi zemin ile ilgiliydi.Bir hipotezimiz zemin düz olduğu için şişenin yolunu bulup düz duracağıydı.Diğeri ise zeminin pürüzlü olduğu için ilk düşüşte sabit duracağı ve hareket etmeyerek ayakta duracağıydı.Planları,hipotezleri,düşüncelerimizi belirttikten sonra deneylere başlamanın vaktinin geldiğini düşündük.İlk deneylerimiz olduğu için yavaş ilerledik ve sadece bir değişkeni inceleyebildik.Çektiğimiz fotoğrafları 'pic' dosyasına attık.
 
 http://www.iop.org/resources/topic/archive/water-bottle-flip/page_68405.html
+
 https://www.youtube.com/watch?v=jPL22YqVXEE
+
 http://www.iopblog.org/its-flipping-great-to-think-like-a-physicist/
 
 # Materyal ve Yöntem (Experimental Setup)
