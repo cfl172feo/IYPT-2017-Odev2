@@ -9,11 +9,18 @@ http://www.iopblog.org/its-flipping-great-to-think-like-a-physicist/
 
 # Materyal ve Yöntem (Experimental Setup)
 İlk deneyimizde kullanılan malzemeler:
-.Plastik su şişeleri
-.Video veya fotoğraf için cep telefonu
-.Cetvel
+
+Plastik su şişeleri
+
+Video veya fotoğraf için cep telefonu
+
+Cetvel
 
 Çalışma sahamız:Okul
+
+Veri toplama aracı:Yavaş çekim özelliğine sahip bir akıllı telefon
+
+Süreç:
 
 Deneye başlamadan önce malzemelerin eksik,hatalı olmamasına dikkat ettik.Birkaç farklı seviyede doldurulmuş şişeyi cetvellerimizle not alarak kontrol ettik.Sonrasında birimiz telefonu yavaş çekim moduna alarak hazır bekledi yavaş çekim deney sonrası inceleme için bize büyük yardım edecekti.Şişeleri teker teker havaya atarak düşüşünü inceledik ve notlar aldık.Deney sırasında bazı sorunlarla karşılaştık.Şişeler plastik olduğu için düşünce ezilebiliyorlardı.Bir sonraki deney için farklı maddelerden yapılmış şişeler kullanacağımızı notlarımız arasına aldık.
 
