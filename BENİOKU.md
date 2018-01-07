@@ -24,6 +24,8 @@ Süreç:
 
 Deneye başlamadan önce malzemelerin eksik,hatalı olmamasına dikkat ettik.Birkaç farklı seviyede doldurulmuş şişeyi cetvellerimizle not alarak kontrol ettik.Sonrasında birimiz telefonu yavaş çekim moduna alarak hazır bekledi yavaş çekim deney sonrası inceleme için bize büyük yardım edecekti.Şişeleri teker teker havaya atarak düşüşünü inceledik ve notlar aldık.Deney sırasında bazı sorunlarla karşılaştık.Şişeler plastik olduğu için düşünce ezilebiliyorlardı.Bir sonraki deney için farklı maddelerden yapılmış şişeler kullanacağımızı notlarımız arasına aldık.
 
+Deneyi grup arkadaşları olarak 3 kişi gerçekleştirdik.Deneyi okulumuzun boş bir sınıfında okul çıkışında gerçekleştirdik.Deney basit bir deney olduğu için bir günde tamamlanmıştır.
+
 # Bulgular (Results)
 Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
 
